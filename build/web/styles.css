@@ -1,0 +1,39 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 100%;
+}
+.container-fluid{
+    background-color: yellow;
+    color: black;
+}
+.contDisplay{
+    
+    border-radius: 10px;
+}
+.btnDis{
+    background-color: #444801;
+}
+.t {
+    margin: auto;
+}
+.textElogin{
+    margin: auto;
+    text-align: center;
+}
+.displayBG{
+    background-color: ghostwhite;
+    border-radius: 10px;
+    align-content: center;
+}
+
+h1   {color: black;}
+
+.container {
+    margin-right: 0;
+    margin-left: auto;
+}

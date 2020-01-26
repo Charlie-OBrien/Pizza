@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+
+<head>
+  <title>Charlie's Wood Fired Pizzas - Employee Login</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+        <a class="navbar-brand" href="order.jsp">Charlie's Wood Fired Pizzas</a>
+    </div>
+    <ul class="nav navbar-nav">
+        <li ><a href="order.jsp">Order</a></li>
+        <li><a href="Cart.jsp">Cart</a></li>
+
+    </ul>
+      <ul class="nav navbar-nav navbar-right">
+      
+          <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Employee Login</a></li>
+    </ul>
+  </div>
+</nav>
+    <h:body>
+        
+        <h:form>
+            <div class="textElogin"><h2 style="color:blue; text-align: center">Employee Login Page</h2></div>
+            <h:panelGrid columns="2" class="t">
+                <h:outputLabel id="lblUserName" value="Enter Username" style="color: black"/>
+                <h:inputText id="txtStudentID" value="#{eBB.username}"/>
+                <h:outputLabel id="lblPassword" value="Enter Password" style="color: black"/>
+                <h:inputSecret id="txtStudentName" value="#{eBB.password}"/>
+                
+                
+                
+                <h:outputLabel value=""/>
+                <h:commandButton class="btnDis btn btn-primary btn-block" id="cmdSubmit" value="Login" action="#{eBB.Login}"/>
+                
+                    
+            </h:panelGrid>
+        </h:form>
+    </h:body>
+</html>
+

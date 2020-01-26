@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/charl/Music/final/src/java/DataLayer_Beans/Employee_DataLayer.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/pojos/Customer.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/servlets/deleteTopping_proc.java</file>
+            <file>file:/C:/Users/charl/Music/final/web/index.html</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/pojos/Conn.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/servlets/addOrderDelivery_proc.java</file>
+            <file>file:/C:/Users/charl/Music/final/web/background.jpg</file>
+            <file>file:/C:/Users/charl/Music/final/web/order.jsp</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/pojos/Size.java</file>
+            <file>file:/C:/Users/charl/Music/final/web/Emp_MGMT.jsp</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/DataLayer_Beans/Toppings_DataLayer.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/DataLayer_Beans/Customer_DataLayer.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/pojos/OrderDetails.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/servlets/addToCart_proc.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/pojos/Crust.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/servlets/addTopping_proc.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/BackingBeans/Employee_BackingBean.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/DataLayer_Beans/Order_DataLayer.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/servlets/updateOrders_proc.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/pojos/Topping.java</file>
+            <file>file:/C:/Users/charl/Music/final/web/Cart.jsp</file>
+            <file>file:/C:/Users/charl/Music/final/web/styles.css</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/DataLayer_Beans/Pizza_DataLayer.java</file>
+            <file>file:/C:/Users/charl/Music/final/src/java/pojos/Order.java</file>
+            <file>file:/C:/Users/charl/Music/final/web/Emp_Login.xhtml</file>
+            <file>file:/C:/Users/charl/Music/final/web/Checkout.jsp</file>
+        </group>
+    </open-files>
+</project-private>
